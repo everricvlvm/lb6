@@ -1,0 +1,9 @@
+cd /work
+make build
+make install
+make clean
+lab6s &
+lab6c &
+lab6c &
+lab6c &
+lab6c &
